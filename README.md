@@ -38,6 +38,3 @@ The SQL script (`USHouseholdIncome_Analysis.sql`) answers questions including:
 ## How to Use
 1. Import `data/UsHouseholdIncome_Edited.csv` and `data/USHouseholdIncome_Statistics_Edited.csv` into a MySQL database as `ushouseholdincome` and `ushouseholdincome_statistics`
 2. Run `USHouseholdIncome_Analysis.sql` to reproduce the cleaning steps and exploratory queries
-
-## Related Projects
-This dataset is also explored using Excel, Tableau, and Power BI in companion projects — see [links to those repos].
